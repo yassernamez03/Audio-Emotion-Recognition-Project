@@ -1,6 +1,8 @@
 # Data directory (too large for git)
 Data/
 *.wav
+Data Test/Emotions
+*.wav
 
 # Model artifacts (large files)
 *.pkl
