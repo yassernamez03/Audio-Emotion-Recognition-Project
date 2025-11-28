@@ -4,9 +4,9 @@ Data/
 Data Test/Emotions
 *.wav
 
-# Model artifacts (large files)
-*.pkl
-*.npy
+# # Model artifacts (large files)
+# *.pkl
+# *.npy
 
 # Python cache
 __pycache__/
